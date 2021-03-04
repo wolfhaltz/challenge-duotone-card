@@ -38,7 +38,9 @@ I just created the repo at dawn, I'm still working on it.
 
 # Credits
 
-Lorem ipsum dolor sit amet
+All my images are from <a href="https://www.freepik.com/">FreePik</a>. The down below are the users that I used their resourcess to design & code this challenge:
+
+<a href="https://www.freepik.com/premium-photo/perfect-portrait-woman-natural-beauty-clean-skin_4523813.htm#page=1&query=model&position=29">Woman at right</a>
 
 <i>Stay awesome Gothan!</i>
   
