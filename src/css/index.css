@@ -1,0 +1,19 @@
+.body--duotone-card{
+    background-color: rgb(224, 129, 224);
+}
+.row--duotone-card{
+    background-color: purple;
+    border-radius: 20px;
+    height: 600px;
+}
+
+.col--first{
+    background-color: #fff;
+    border-radius: 20px 0px 0px 20px;
+}
+.col--second{
+    background-image: url('../img/woman.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 0px 20px 20px 0px;
+}
