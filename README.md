@@ -12,7 +12,9 @@
 This is a challenge of <a href="https://piccalil.li/blog/challenge-003-duotone-card">Piccalil website<a/>, to do a duotone card.
 <br/><br/>
 <b>Description:</b><br/>
-This is a challenge of <a href="https://piccalil.li/blog/challenge-003-duotone-card">Piccalil website<a/>, to do a duotone card.
+This is a challenge of <a href="https://piccalil.li/blog/challenge-003-duotone-card">Piccalil website<a/>, to do a duotone card. The example of the challenge:
+<br>
+<a href="https://www.figma.com/proto/N1ZGPFVfBeDdAf4AKQDVRF/Challenge-3?node-id=1%3A2&viewport=452%2C388%2C1&scaling=min-zoom">Figma Example of Duotone Card</a>
 <br/><br/>
 # Quick links &#128150;
   
