@@ -24,3 +24,13 @@
     width: 200px;
     height: 200px;
 }
+.duotone-card__info{
+    background-color: rgba(6, 0, 79, 0.77);
+    color: #fff;
+    width: 200px;
+    position: absolute;
+    margin-top: 150px;
+}
+.duotone-card__info:hover{
+    background-color: #0c1f72;
+}
